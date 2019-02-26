@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/lxy/lxy/liushaohui/src/../ckpt/NER/combine/model"
+all_model_checkpoint_paths: "/home/lxy/lxy/liushaohui/src/../ckpt/NER/combine/model"

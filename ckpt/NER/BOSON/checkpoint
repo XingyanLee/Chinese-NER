@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/shaohui/project/label_sequence/src/../ckpt/NER/BOSON/model"
+all_model_checkpoint_paths: "/home/shaohui/project/label_sequence/src/../ckpt/NER/BOSON/model"
