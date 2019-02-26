@@ -225,7 +225,7 @@ class Model(object):
                 model_inputs,
                 dtype=tf.float32,
                 sequence_length=lengths)
-            # 修改-李星彦
+            # modified by lxy
             outputs = tf.concat(outputs, axis=2)
             # outputs = self.self_attention(outputs)
         return outputs
