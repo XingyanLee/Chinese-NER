@@ -5,7 +5,7 @@ embedding file：wiki_100.utf8
 
 note: you should modify path
 
-environment：tonsorflow 1.3
+environment：tensorflow 1.3
 
 step: 1. modify configuration in main.py,including data file ,running parameter .etc 
       2. download embedding files,storing in embedding file
